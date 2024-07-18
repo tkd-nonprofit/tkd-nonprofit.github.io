@@ -1,0 +1,5 @@
+title: [TKD NonProfit]
+description: [To empower individuals through elite-level taekwondo training, fostering physical fitness, mental discipline, and ethical values in a supportive and inclusive environment.]
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
