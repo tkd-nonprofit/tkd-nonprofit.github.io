@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Contact Us"
-permalink: /contact-us/
+title: "Sign Up"
+permalink: /sign-up/
 toc: true
 ---
 
