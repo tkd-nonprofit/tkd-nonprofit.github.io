@@ -4,15 +4,11 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Blog"
-    url: /blog/
   - title: "Weekly Schedule"
     url: /weekly-schedule/
+  - title: "Sign Up"
+    url: /sign-up/
+  - title: "Blog"
+    url: /blog/
   - title: "Contact Us"
     url: /contact-us/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/

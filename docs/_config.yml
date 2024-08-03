@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "defau
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Home"
+title                    : "Elite Texas Taekwondo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "ETT"
 school_name              : "Elite Texas Taekwondo"
 description              : "Unbreakable Resolve, Unyielding Spirit, Unstoppable Force"
 school_address           : "5800 Historic, Old Hwy 90 W, San Antonio, TX 78227"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://elitetexastaekwondo.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/site_logo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"

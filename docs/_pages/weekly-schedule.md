@@ -5,6 +5,8 @@ permalink: /weekly-schedule/
 author_profile: false
 ---
 
+## Current Calendar
+
 <table>
   <thead>
     <tr>
@@ -70,22 +72,85 @@ author_profile: false
   tr:hover {
     background-color: #f1f1f1;
   }
+
+  body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+  }
+  .content {
+      /* max-width: 800px; */
+      margin: auto;
+      padding: 20px;
+      background: #f9f9f9;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  /* h3 {
+      color: #333;
+      border-bottom: 2px solid #f4b400;
+      padding-bottom: 10px;
+  } */
+  .highlight {
+      background: #f4b400;
+      color: #fff;
+      padding: 2px 5px;
+      border-radius: 3px;
+  }
+  /* ul {
+      list-style-type: none;
+      padding: 0;
+  }
+  li {
+      margin-bottom: 10px;
+      padding: 10px;
+      background: #fff;
+      border-left: 4px solid #f4b400;
+      border-radius: 5px;
+  } */
+  .note {
+      font-style: italic;
+      color: #777;
+  }
 </style>
 
 ## Where to Start
+<div class="content">
+  <p>If you have no prior Taekwondo experience, we strongly recommend you attend a <span class="highlight">Form and Technique</span> Tuesday or Thursday class.</p>
+</div>
+
+## Arrival
+<div class="content">
+  <ul>
+      <li><strong>Time:</strong> Please arrive 15 minutes early to complete any necessary paperwork.</li>
+      <li><strong>Location:</strong> Our facility is located at {{ site.school_address }}.</li>
+  </ul>
+</div>
+
+## What to Bring
+<div class="content">
+  <ul>
+      <li><strong>Clothing:</strong> Wear comfortable, athletic clothing. If you have a taekwondo uniform (dobok), please bring it.</li>
+      <li><strong>Water:</strong> Staying hydrated is important. Please bring a water bottle.</li>
+  </ul>
+</div>
+
+<p class="note">We’re excited to have you join us and look forward to training with you!</p>
+
+<!-- ### Where to Start
 
 Here’s a quick guide to help you prepare for your first day.
 
 If you have no prior Taekwondo experience, we strongly recommend you attend a "Form and Technique" Tuesday or Thursday class.
 
-## Arrival
+### Arrival
 
 - **Time:** Please arrive 15 minutes early to complete any necessary paperwork.
 - **Location:** Our facility is located at {{ site.school_addresss }}.
 
-## What to Bring
+### What to Bring
 
 - **Clothing:** Wear comfortable, athletic clothing. If you have a taekwondo uniform (dobok), please bring it.
 - **Water:** Staying hydrated is important. Please bring a water bottle.
 
-We’re excited to have you join us and look forward to training with you!
+We’re excited to have you join us and look forward to training with you! -->

@@ -5,7 +5,7 @@ permalink: /sign-up/
 toc: true
 ---
 
-## Have a question? Send us a message.
+## Ready to sign up?
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScaDOzVj6DLXGysKfxlc3spCXieUP9FBPrBST-z4dfTWup0ZQ/formResponse?" target="hidden_iframe" onsubmit="submitted=true; return checkHoneypot();">
     <label for="entry.1954101685">First name:</label><br>
     <input type="text" name="entry.1954101685" id="entry.1954101685" required><br>
