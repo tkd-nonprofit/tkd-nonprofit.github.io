@@ -23,10 +23,11 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "ETT"
 school_name              : "Elite Texas Taekwondo"
 description              : "Unbreakable Resolve, Unyielding Spirit, Unstoppable Force"
+school_address           : "5800 Historic, Old Hwy 90 W, San Antonio, TX 78227"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/site_teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/site_logo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/site_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
@@ -114,12 +115,12 @@ analytics:
 
 # Site Author
 author:
-  # name             : "Elite Texas Taekwondo"
-  # avatar           : "/assets/images/site_logo.png"
-  # bio              : "Unbreakable Resolve, Unyielding Spirit, Unstoppable Force"
+  name             : "James De Luna"
+  avatar           : "/assets/images/james_avatar.jpg"
+  bio              : "Founder"
   # location         : "5800 Historic, Old Hwy 90 W, San Antonio, TX 78227"
   email            :
-  # links:
+  links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   url: "mailto:your.name@email.com"
@@ -129,9 +130,9 @@ author:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-    #   url: "https://facebook.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/james.deluna.96"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/"

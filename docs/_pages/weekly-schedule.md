@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: splash
 title: "Weekly Schedule"
 permalink: /weekly-schedule/
-author_profile: true
+author_profile: false
 ---
 
 <table>
@@ -71,3 +71,21 @@ author_profile: true
     background-color: #f1f1f1;
   }
 </style>
+
+## Where to Start
+
+Here’s a quick guide to help you prepare for your first day.
+
+If you have no prior Taekwondo experience, we strongly recommend you attend a "Form and Technique" Tuesday or Thursday class.
+
+## Arrival
+
+- **Time:** Please arrive 15 minutes early to complete any necessary paperwork.
+- **Location:** Our facility is located at {{ site.school_addresss }}.
+
+## What to Bring
+
+- **Clothing:** Wear comfortable, athletic clothing. If you have a taekwondo uniform (dobok), please bring it.
+- **Water:** Staying hydrated is important. Please bring a water bottle.
+
+We’re excited to have you join us and look forward to training with you!

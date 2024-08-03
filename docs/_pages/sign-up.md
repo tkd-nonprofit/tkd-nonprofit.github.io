@@ -2,12 +2,11 @@
 layout: single
 title: "Contact Us"
 permalink: /contact-us/
-author_profile: false
 toc: true
 ---
 
 ## Have a question? Send us a message.
-<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScaDOzVj6DLXGysKfxlc3spCXieUP9FBPrBST-z4dfTWup0ZQ/formResponse?" target="hidden_iframe" onsubmit="submitted=true; return checkElement();">
+<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScaDOzVj6DLXGysKfxlc3spCXieUP9FBPrBST-z4dfTWup0ZQ/formResponse?" target="hidden_iframe" onsubmit="submitted=true; return checkHoneypot();">
     <label for="entry.1954101685">First name:</label><br>
     <input type="text" name="entry.1954101685" id="entry.1954101685" required><br>
     <label for="entry.64547066">Last name:</label><br>
@@ -46,9 +45,9 @@ toc: true
     document.getElementById('form-overlay').style.display = 'block';
   }
 
-  function checkElement() {
-    var elementValue = document.getElementById('whatissevenplusfive').value;
-    if (elementValue) {
+  function checkHoneypot() {
+    var honeypot = document.getElementById('honeypot').value;
+    if (honeypot) {
       // Bot submission detected
       return false;
     }
