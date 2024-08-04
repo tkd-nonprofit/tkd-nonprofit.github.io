@@ -8,7 +8,7 @@ date: 2024-08-02 20:35:02 -0500
 categories: community
 ---
 
-Welcome to the Elite Texas Taekwondo blog!
+Welcome to the {{ site.school_name }} blog!
 
 Today, we want to explore a topic that lies at the heart of our mission: the vital role of community and support in achieving goals. At {{ site.school_name }}, we believe that a strong, supportive community is key to personal growth and success. Here’s why community matters and how you can get involved.
 
@@ -40,11 +40,11 @@ A supportive gym environment promotes positive mental health. Knowing that you�
 
 Motivation can sometimes wane, but being surrounded by like-minded individuals who are working towards similar goals keeps the motivation high. Witnessing the progress of others inspires you to push harder and stay focused on your own goals.
 
-## My Journey: Why I Started Elite Texas Taekwondo
+## My Journey: Why I Started {{ site.school_name }}
 
 The importance of community is deeply personal to me. When I was a teenager, I trained at a community center, and it was the folks and parents who supported the program that made a significant impact on my life. The sense of community and the support I received instilled a strong work ethic and discipline in me. I made lasting friendships and learned valuable life lessons that have stayed with me.
 
-Starting Elite Texas Taekwondo was my way of giving back and recreating that positive environment for others. I wanted to build a place where everyone feels welcome, supported, and encouraged to reach their full potential. Our community is the cornerstone of our gym.
+Starting {{ site.school_name }} was my way of giving back and recreating that positive environment for others. I wanted to build a place where everyone feels welcome, supported, and encouraged to reach their full potential. Our community is the cornerstone of our organization.
 
 ## How to Get Involved and Support Each Other
 
@@ -62,10 +62,10 @@ If you’re an experienced practitioner, consider becoming a mentor to newcomers
 
 ## Conclusion
 
-At Elite Texas Taekwondo, we’re more than just a gym – we’re a community. By supporting each other and working together, we create an environment where everyone can thrive. Whether you’re a seasoned martial artist or just starting your fitness journey, we invite you to join our community and experience the benefits of belonging to a supportive, encouraging group.
+At {{ site.school_name }}, we’re more than just a gym – we’re a community. By supporting each other and working together, we create an environment where everyone can thrive. Whether you’re a seasoned martial artist or just starting your fitness journey, we invite you to join our community and experience the benefits of belonging to a supportive, encouraging group.
 
-**Ready to try it out | [Sign Up for a Class]({{ site.url }}/sign-up)**
-**Ready to make a commitment | [Sign Up for a Class]({{ site.url }}/sign-up)**
-**Have a question? | [Contact Us]({{ site.url }}/contact-us)**
+**Ready to try it out?** | **[Come on in - first 2 classes are always free.]({{ site.url }}/weekly-schedule)**
+**Ready to make a commitment?** | **[Sign Up]({{ site.url }}/sign-up)**
+**Have a question?** | **[Contact Us]({{ site.url }}/contact-us)**
 
-We hope this post inspires you to get involved and experience the strength of our community. Stay tuned for more insights and stories from Elite Texas Taekwondo!
+We hope this post inspires you to get involved and experience the strength of our community. Stay tuned for more insights and stories from {{ site.school_name }}!

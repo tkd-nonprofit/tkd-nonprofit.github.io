@@ -4,17 +4,23 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/home-splash-image.jpg
-  actions:
-    - label: "Sign Up Today"
-      url: "/sign-up/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "(╯°o°）╯︵ ┻━┻"
 excerpt: "Unbreakable Resolve, Unyielding Spirit, Unstoppable Force"
 intro: 
   - excerpt: 'Developing leaders in a culture of excellence.'
 ---
 
 {% include feature_row id="intro" type="center" %}
-  
+
+Our mission is to cultivate a supportive and
+empowering community where individuals of all ages and skill levels can thrive. Whether you're looking
+to improve your fitness, develop discipline and confidence, or compete on a national stage, we are here to guide
+you every step of the way.
+
+**Ready to try it out?** | **[Come on in - first 2 classes are always free.]({{ site.url }}/weekly-schedule)**
+**Ready to make a commitment?** | **[Sign Up]({{ site.url }}/sign-up)**
+**Have a question?** | **[Contact Us]({{ site.url }}/contact-us)**
+
 <div class="location" style="text-align: center; margin: 2em 0;">
 <h2>Find Us Here</h2>
 <p>Barrera Fitness Center inside Parks and Recreation Headquarters</p>
