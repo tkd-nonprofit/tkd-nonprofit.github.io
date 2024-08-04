@@ -2,7 +2,6 @@
 layout: single
 title: "Sign Up"
 permalink: /sign-up/
-toc: true
 ---
 
 ## Ready to sign up?
