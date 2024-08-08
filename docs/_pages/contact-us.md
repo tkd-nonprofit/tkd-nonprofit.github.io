@@ -4,6 +4,7 @@ title: "Contact Us"
 permalink: /contact-us/
 author_profile: false
 toc: true
+classes: wide
 ---
 
 ## Have a question? Send us a message.
@@ -41,15 +42,6 @@ toc: true
   <input type="text" name="whatissevenplusfive" id="whatissevenplusfive" style="display:none;">
   <input class="btn btn--success" type="submit" value="Send ☞">
 </form>
-
-https://docs.google.com/forms/d/e/1FAIpQLSf3jNXaA-I6W88AJcCRCYgJ3vD0OOXezXc_M61jif9Li9ECiQ/viewform?usp=pp_url&
-entry.238263378=fn&
-entry.914355807=ln&
-entry.1225974484=21015948684&
-entry.1442209561=asdf@asdfa&
-entry.1964500494=asdf&
-entry.1577454351=asdf&
-entry.48144580=asdf
 
 <div id="form-overlay" style="display:none;">
   <p>Submitted! We'll get back to you as soon as possible.</p>
