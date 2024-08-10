@@ -4,7 +4,7 @@ title: "Contact Us"
 permalink: /contact-us/
 author_profile: false
 toc: true
-classes: wide
+# classes: wide
 ---
 
 ## Have a question? Send us a message.
@@ -40,7 +40,7 @@ classes: wide
   <textarea name="entry.48144580" id="entry.48144580" rows="5" required></textarea><br>
   <!-- Honeypot field -->
   <input type="text" name="whatissevenplusfive" id="whatissevenplusfive" style="display:none;">
-  <input class="btn btn--success" type="submit" value="Send ☞">
+  <input class="btn btn--success btn--large" type="submit" value="Send ☞">
 </form>
 
 <div id="form-overlay" style="display:none;">
