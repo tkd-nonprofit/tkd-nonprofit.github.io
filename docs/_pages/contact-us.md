@@ -4,7 +4,6 @@ title: "Contact Us"
 permalink: /contact-us/
 author_profile: false
 toc: true
-# classes: wide
 ---
 
 ## Have a question? Send us a message.
