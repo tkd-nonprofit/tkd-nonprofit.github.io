@@ -15,14 +15,6 @@ author_profile: false
   <label for="entry.1119695846">Last Name:</label><br>
   <input type="text" name="entry.1119695846" id="entry.1119695846" required><br><br>
 
-  <label for="entry.1717035973">Choose the subscription you are interested in: (this can be changed later)</label><br>
-  <select name="entry.1717035973" id="entry.1717035973" required>
-      <option value="" disabled selected>Select an option</option>
-      <option value="Practitioner">Practitioner $45/month</option>
-      <option value="Visitor">Visitor $55/month</option>
-      <option value="Competitor">Competitor $95/month</option>
-  </select><br><br>
-
   <label for="entry.1550372046">Email Address:</label><br>
   <input type="email" name="entry.1550372046" id="entry.1550372046" required><br><br>
 
