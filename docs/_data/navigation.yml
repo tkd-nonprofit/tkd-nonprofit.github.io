@@ -8,6 +8,8 @@ main:
     url: /weekly-schedule/
   - title: "Sign Up"
     url: /sign-up/
+  - title: "Donate"
+    url: /donate/
   - title: "Blog"
     url: /blog/
   - title: "Contact Us"

@@ -11,6 +11,8 @@ header:
       url: "/sign-up/"
     - label: "Have a question?"
       url: "/contact-us/"
+    - label: "Help our cause."
+      url: "/donate/"
   caption: "(╯°o°）╯︵ ┻━┻"
 excerpt: "Unbreakable Resolve, Unyielding Spirit, Unstoppable Force"
 intro: 
