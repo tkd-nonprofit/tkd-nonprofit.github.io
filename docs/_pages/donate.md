@@ -7,6 +7,16 @@ author_profile: false
 
 ## Support Our Mission to Empower Future Champions
 
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1PnlGVBXOIqhEgYsrUWTRivg"
+  publishable-key="pk_live_51Pker8BXOIqhEgYsuSG9vSbElNjim6uxvxbbpWsM6NdAZ7iLzv5gbMjLbX29NRmuZf29Jjru7uyyVdFrSNYUI7rk00ZNZxgvXa"
+>
+</stripe-buy-button>
+
 At **Elite Texas Taekwondo**, we're dedicated to providing athletes with the tools, training, and opportunities they need to excel in both martial arts and life. We believe that every child and athlete, regardless of their background, should have access to high-quality training that fosters discipline, confidence, and a strong work ethic.
 
 Your generous donation will directly support our mission by:
