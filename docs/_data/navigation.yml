@@ -6,11 +6,11 @@ main:
     url: /about/
   - title: "Weekly Schedule"
     url: /weekly-schedule/
-  - title: "Sign Up"
-    url: /sign-up/
+  # - title: "Sign Up"
+  #   url: /sign-up/
   - title: "Donate"
     url: /donate/
   - title: "Blog"
     url: /blog/
-  - title: "Contact Us"
-    url: /contact-us/
+  # - title: "Contact Us"
+  #   url: /contact-us/
