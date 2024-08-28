@@ -21,12 +21,14 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
+<h1>SITE CURRENTLY UNDER CONSTRUCTION</h1>
+
 Our mission is to cultivate a supportive and
 empowering community where individuals of all ages and skill levels can thrive. Whether you're looking
 to improve your fitness, develop discipline and confidence, or compete on a national stage, we are here to guide
 you every step of the way.
 
-<div class="location" style="text-align: center; margin: 2em 0;">
+<!-- <div class="location" style="text-align: center; margin: 2em 0;">
 <h2>Find Us Here</h2>
 <p>Barrera Fitness Center inside Parks and Recreation Headquarters</p>
 <iframe
@@ -38,4 +40,4 @@ you every step of the way.
     loading="lazy"
     referrerpolicy="no-referrer-when-downgrade"
 ></iframe>
-</div>
+</div> -->
