@@ -2,13 +2,11 @@
 layout: single
 title: "Why I started Elite Texas Taekwondo"
 header:
-  overlay_image: /assets/images/sprout_posts.jpg
-  caption: "AAU Nationals 2024"
-date: 2024-10-07 20:35:02 -0500
+  overlay_image: /assets/images/sprout_posts.png
+  caption: "setting in motion"
+date: 2024-10-06 20:35:02 -0500
 categories: personal
 ---
-
-## Why I Started {{ site.school_name }}
 
 Segueing from the previous post, the importance of community is deeply personal to me.
 
