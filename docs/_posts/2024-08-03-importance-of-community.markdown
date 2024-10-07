@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "The Importance of Community"
+tagline: "Show up and participate."
 header:
   overlay_image: /assets/images/nationals_2024.jpg
   caption: "AAU Nationals 2024"
@@ -39,12 +40,6 @@ A supportive gym environment promotes positive mental health. Knowing that youâ€
 **Enhanced Motivation**
 
 Motivation can sometimes wane, but being surrounded by like-minded individuals who are working towards similar goals keeps the motivation high. Witnessing the progress of others inspires you to push harder and stay focused on your own goals.
-
-## My Journey: Why I Started {{ site.school_name }}
-
-The importance of community is deeply personal to me. When I was a teenager, I trained at a community center, and it was the folks and parents who supported the program that made a significant impact on my life. The sense of community and the support I received instilled a strong work ethic and discipline in me. I made lasting friendships and learned valuable life lessons that have stayed with me.
-
-Starting {{ site.school_name }} was my way of giving back and recreating that positive environment for others. I wanted to build a place where everyone feels welcome, supported, and encouraged to reach their full potential. Our community is the cornerstone of our organization.
 
 ## How to Get Involved and Support Each Other
 

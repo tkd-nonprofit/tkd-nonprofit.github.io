@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Why I started Elite Texas Taekwondo"
+tagline: "To whom much is given, much is required."
 header:
   overlay_image: /assets/images/sprout_posts.png
   caption: "setting in motion"
