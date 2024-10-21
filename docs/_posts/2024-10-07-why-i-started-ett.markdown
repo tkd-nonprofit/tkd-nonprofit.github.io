@@ -15,7 +15,7 @@ Segueing from the previous post, the importance of community is deeply personal 
 - Community keeps you accountable.
 - Community gives you purpose.
 
-When I was a teenager, I found my way into martial arts through a community center on the southside of San Antonio. It wasn’t just a place to train—it became a refuge, a place where I could test my limits, discover my strengths, and grow in ways I never imagined. The people, the parents, the volunteers—they were the hands that lifted me up, the voices that said, “You can be more.”
+When I was a teenager, I found my way into martial arts through a community center on the southside of San Antonio. It wasn’t just a place to train—it became a refuge, a place where I could test my limits, discover my strengths, and grow in ways I never imagined. The people, the parents, the volunteers, my teammates—they were the hands that lifted me up, the voices that said, “You can be more.”
 
 It was that sense of belonging, the friends, the mentorship, and the discipline I learned that shaped me. Those experiences planted a seed of determination, watered by the dedication of my community, which has since grown into the vision for {{ site.school_name }}.
 

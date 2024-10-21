@@ -5,6 +5,8 @@ permalink: /weekly-schedule/
 author_profile: false
 ---
 
+<p class="note"><br>We’re excited to have you join us and look forward to training with you!<br></p>
+
 ## Current Calendar
 
 <table>
@@ -123,7 +125,7 @@ author_profile: false
 <div class="content">
   <ul>
       <li><strong>Time:</strong> Please arrive 15 minutes early to complete any necessary paperwork.</li>
-      <li><strong>Location:</strong> Our facility is located at {{ site.school_address }}.</li>
+      <li><strong>Location:</strong> The location of training may change due to the transient nature of the class at this time. Check the homepage and any social media pages for updates.</li>
   </ul>
 </div>
 
@@ -134,23 +136,3 @@ author_profile: false
       <li><strong>Water:</strong> Staying hydrated is important. Please bring a water bottle.</li>
   </ul>
 </div>
-
-<p class="note">We’re excited to have you join us and look forward to training with you!</p>
-
-<!-- ### Where to Start
-
-Here’s a quick guide to help you prepare for your first day.
-
-If you have no prior Taekwondo experience, we strongly recommend you attend a "Form and Technique" Tuesday or Thursday class.
-
-### Arrival
-
-- **Time:** Please arrive 15 minutes early to complete any necessary paperwork.
-- **Location:** Our facility is located at {{ site.school_addresss }}.
-
-### What to Bring
-
-- **Clothing:** Wear comfortable, athletic clothing. If you have a taekwondo uniform (dobok), please bring it.
-- **Water:** Staying hydrated is important. Please bring a water bottle.
-
-We’re excited to have you join us and look forward to training with you! -->

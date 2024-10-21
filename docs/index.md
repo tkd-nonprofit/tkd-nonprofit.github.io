@@ -7,10 +7,10 @@ header:
   actions:
     - label: "Try it out."
       url: "/weekly-schedule/"
-    - label: "Take the next step."
-      url: "/sign-up/"
-    - label: "Have a question?"
-      url: "/contact-us/"
+    # - label: "Take the next step."
+    #   url: "/sign-up/"
+    # - label: "Have a question?"
+    #   url: "/contact-us/"
     - label: "Help our cause."
       url: "/donate/"
   caption: "(╯°o°）╯︵ ┻━┻"
@@ -21,7 +21,7 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-<h1>SITE CURRENTLY UNDER CONSTRUCTION</h1>
+<!-- <h1>SITE CURRENTLY UNDER CONSTRUCTION</h1> -->
 
 Our mission is to cultivate a supportive and
 empowering community where individuals of all ages and skill levels can thrive. Whether you're looking

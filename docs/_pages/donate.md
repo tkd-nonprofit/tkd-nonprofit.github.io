@@ -21,7 +21,7 @@ At **Elite Texas Taekwondo**, we're dedicated to providing athletes with the too
 
 Your generous donation will directly support our mission by:
 
-- Helping underprivileged athletes participate in competitions.
+- Helping athletes participate in competitions.
 - Providing essential equipment and training facilities.
 - Providing enrichment activities and seminars to athletes on their competive journey.
 

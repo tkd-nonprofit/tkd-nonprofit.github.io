@@ -59,8 +59,6 @@ If you’re an experienced practitioner, consider becoming a mentor to newcomers
 
 At {{ site.school_name }}, we’re more than just a gym – we’re a community. By supporting each other and working together, we create an environment where everyone can thrive. Whether you’re a seasoned martial artist or just starting your fitness journey, we invite you to join our community and experience the benefits of belonging to a supportive, encouraging group.
 
-**Ready to try it out?** | **[Come on in - first 2 classes are always free.]({{ site.url }}/weekly-schedule)**
-**Ready to make a commitment?** | **[Sign Up]({{ site.url }}/sign-up)**
-**Have a question?** | **[Contact Us]({{ site.url }}/contact-us)**
+**Ready to try it out?** | **[Come on in.]({{ site.url }}/weekly-schedule)**
 
 We hope this post inspires you to get involved and experience the strength of our community. Stay tuned for more insights and stories from {{ site.school_name }}!
