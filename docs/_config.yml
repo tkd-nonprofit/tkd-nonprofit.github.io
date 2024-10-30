@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "ETT"
 school_name              : "Elite Texas Taekwondo"
 description              : "Unbreakable Resolve, Unyielding Spirit, Unstoppable Force"
-school_address           : "5800 Historic, Old Hwy 90 W, San Antonio, TX 78227"
+school_address           : "Monterrey Park - Tennis Courts"
 url                      : "https://elitetexastaekwondo.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
