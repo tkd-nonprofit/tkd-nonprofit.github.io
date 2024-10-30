@@ -2,8 +2,7 @@
 
 ## Local Development
 
-$ cd docs
-$ bundler exec jekyll serve
+$ cd docs && bundler exec jekyll serve
 
 ## TODO
 

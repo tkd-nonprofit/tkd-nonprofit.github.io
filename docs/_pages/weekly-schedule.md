@@ -26,15 +26,17 @@ author_profile: false
     <tr>
       <td>6:00-6:30PM</td>
       <td rowspan="4">REST</td>
-      <td rowspan="3">Competition<br>6:00-7:30PM</td>
+      <td></td>
       <td rowspan="2">Form and Technique<br>6:00-7:00PM</td>
-      <td rowspan="3">Competition<br>6:00-7:30PM</td>
+      <td></td>
       <td rowspan="2">Form and Technique<br>6:00-7:00PM</td>
       <td rowspan="4">REST</td>
       <td rowspan="4">Competition<br>9:30AM-12:00PM</td>
     </tr>
     <tr>
       <td>6:30-7:00PM</td>
+      <td rowspan="3">Competition<br>6:30-8:00PM</td>
+      <td rowspan="3">Competition<br>6:30-8:00PM</td>
     </tr>
     <tr>
       <td>7:00-7:30PM</td>
@@ -43,8 +45,6 @@ author_profile: false
     </tr>
     <tr>
       <td>7:30-8:00PM</td>
-      <td></td>
-      <td></td>
     </tr>
   </tbody>
 </table>
