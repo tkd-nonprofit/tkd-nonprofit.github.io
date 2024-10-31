@@ -37,7 +37,7 @@ toc: true
 
   <label for="entry.48144580">Message:</label><br>
   <textarea name="entry.48144580" id="entry.48144580" rows="5" required></textarea><br>
-  <!-- Honeypot field -->
+
   <input type="text" name="whatissevenplusfive" id="whatissevenplusfive" style="display:none;">
   <input class="btn btn--success btn--large" type="submit" value="Send ☞">
 </form>
@@ -59,7 +59,7 @@ toc: true
   function checkElement() {
     var elementValue = document.getElementById('whatissevenplusfive').value;
     if (elementValue) {
-      // Bot submission detected
+
       return false;
     }
     submitted = true;
