@@ -32,23 +32,19 @@ We strive to keep our pricing low to ensure that financial barriers do not preve
 
 > *All proceeds from memberships go directly back to supporting our athletes and expanding the resources available to help each individual reach their highest potential.*
 
-### Multi-Membership Discounts
+##### <u>One-Time Registration Fee</u>
+
+A one-time registration fee of **$50** is required upon sign-up. This fee covers:
+
+- A uniform, belt, and martial arts shoes to help protect your child's everyday footwear.
+- An AAU membership. Since we are a registered AAU Club, you will have access to AAU member benefits such as event participation and sports injury insurance. See [AAU Membership](https://aausports.org/Membership) and [AAU Insurance](https://aausports.org/Insurance) for further details and claim filing instructions. Your AAU membership will be renewed annually at no additional cost as long as you remain a member of Elite Texas Taekwondo.
+- Access to a supportive community of like-minded individuals dedicated to instilling core values, such as work ethic and perseverance, in the next generation.
+
+##### <u>Multi-Membership Discounts</u>
 
 At Elite Texas Taekwondo, we believe in the transformative impact of parents participating alongside their children. That’s why any **parent membership**, when added to one or more child memberships, is eligible for a **50% discount**.
 
 We also value the strength and unity of family involvement. For families enrolling multiple children, we offer a **$5 discount per additional child** after the first.
-
-### Sign Up Process
-
-1. Sign up at [pending sign up url](https://elitetexastaekwondo.com).
-- *Note: Online membership management requires a valid email address.*
-2. You will receive an email containing complete registration instructions and a link to select your membership tier via Stripe.
-3. The email will also provide guidance on how to join our GroupMe for effective communication.
-4. Each registration comes with a two-week trial period, allowing you to decide whether to officially enroll.
-5. Pay a one-time registration fee of $50, which includes:
-- A uniform, belt, and martial arts shoes to help preserve your child’s regular footwear.
-- An AAU membership. Since we are a registered AAU Club, you will have access to AAU member benefits such as event participation and sports injury insurance. See [AAU Membership](https://aausports.org/Membership) and [AAU Insurance](https://aausports.org/Insurance) for further details and claim filing instructions. Your AAU membership will be renewed annually at no additional cost as long as you remain a member of Elite Texas Taekwondo.
-- Access to a supportive community of like-minded individuals dedicated to instilling core values, such as work ethic and perseverance, in the next generation.
 
 ---
 
