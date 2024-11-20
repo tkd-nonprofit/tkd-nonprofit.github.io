@@ -24,6 +24,8 @@ We strive to keep our pricing low to ensure that financial barriers do not preve
 
 ## Membership Tiers
 
+We take pride in the quality and value of our program. Every registration comes with a **two-week trial period**, allowing you to evaluate whether Elite Texas Taekwondo is the best fit for you and your family.
+
 | Tier                       | Monthly Fee | Includes                                                                                                | 
 |----------------------------|-------------|---------------------------------------------------------------------------------------------------------|
 | **Forms & Technique Class**| $20         | Access to only forms and technique classes 2 days a week from 6-7pm.                                    |

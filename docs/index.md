@@ -7,8 +7,8 @@ header:
   actions:
     - label: "Try it out."
       url: "/weekly-schedule/"
-    # - label: "Take the next step."
-    #   url: "/sign-up/"
+    - label: "Take the next step."
+      url: "/join/"
     # - label: "Have a question?"
     #   url: "/contact-us/"
     - label: "Help our cause."
