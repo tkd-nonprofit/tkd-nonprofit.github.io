@@ -6,8 +6,6 @@ permalink: /faq/
 author_profile: false
 ---
 
-## Frequently Asked Questions
-
 <details>
   <summary style="font-weight: bold; font-size: 1.1em; cursor: pointer; padding: 5px 0;">What is Elite Texas Taekwondo?</summary>
   

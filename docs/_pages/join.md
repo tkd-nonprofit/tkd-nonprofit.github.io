@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "Join Us"
 permalink: /join/
 # classes: wide
 author_profile: false
