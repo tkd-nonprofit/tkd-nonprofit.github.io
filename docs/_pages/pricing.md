@@ -26,11 +26,11 @@ We strive to keep our pricing low to ensure that financial barriers do not preve
 
 We take pride in the quality and value of our program. Every registration comes with a **two-week trial period**, allowing you to evaluate whether Elite Texas Taekwondo is the best fit for you and your family.
 
-| Tier                       | Monthly Fee | Includes                                                                                                | 
-|----------------------------|-------------|---------------------------------------------------------------------------------------------------------|
-| **Forms & Technique Class**| $20         | Access to only forms and technique classes 2 days a week from 6-7pm.                                    |
-| **Form with Conditioning** | $30         | Access to the form and technique class along with conditioning classes Tues/Thurs from 6-7pm and 7-8pm. |
-| **Full Training Package**  | $50         | Access to our entire range of classes throughout the week.                                              |
+| Tier                       | Monthly Fee | Includes                                                                                        | 
+|----------------------------|-------------|-------------------------------------------------------------------------------------------------|
+| **Forms & Technique Class**| $20         | Access to only forms and technique classes                                                      |
+| **Form with Conditioning** | $30         | Access to the form and technique class along with both conditioning classes.                    |
+| **Full Training Package**  | $50         | Access to our entire range of classes throughout the week. (Form, Conditioning, Compeitition)   |
 
 > *All proceeds from memberships go directly back to supporting our athletes and expanding the resources available to help each individual reach their highest potential.*
 
@@ -38,7 +38,7 @@ We take pride in the quality and value of our program. Every registration comes 
 
 A one-time registration fee of **$50** is required upon sign-up. This fee covers:
 
-- A uniform, belt, and martial arts shoes to help protect your child's everyday footwear.
+- A uniform and belt.
 - An AAU membership. Since we are a registered AAU Club, you will have access to AAU member benefits such as event participation and sports injury insurance. See [AAU Membership](https://aausports.org/Membership) and [AAU Insurance](https://aausports.org/Insurance) for further details and claim filing instructions. Your AAU membership will be renewed annually at no additional cost as long as you remain a member of Elite Texas Taekwondo.
 - Access to a supportive community of like-minded individuals dedicated to instilling core values, such as work ethic and perseverance, in the next generation.
 

@@ -25,26 +25,33 @@ author_profile: false
   <tbody>
     <tr>
       <td>6:00-6:30PM</td>
-      <td rowspan="4">REST</td>
-      <td></td>
+      <td rowspan="5">REST</td>
       <td rowspan="2">Form and Technique<br>6:00-7:00PM</td>
-      <td></td>
+      <td rowspan="2"></td>
       <td rowspan="2">Form and Technique<br>6:00-7:00PM</td>
-      <td rowspan="4">REST</td>
-      <td rowspan="4">Competition<br>9:30AM-12:00PM</td>
+      <td rowspan="2"></td>
+      <td rowspan="5">REST</td>
+      <td rowspan="5">Competition<br>9:00AM-11:30PM</td>
     </tr>
     <tr>
       <td>6:30-7:00PM</td>
-      <td rowspan="3">Competition<br>6:30-8:00PM</td>
-      <td rowspan="3">Competition<br>6:30-8:00PM</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>7:00-7:30PM</td>
       <td rowspan="2">Conditioning<br>7:00-8:00PM</td>
+      <td rowspan="3">Competition<br>7:00-8:30PM</td>
       <td rowspan="2">Conditioning<br>7:00-8:00PM</td>
+      <td rowspan="3">Competition<br>7:00-8:30PM</td>
     </tr>
     <tr>
       <td>7:30-8:00PM</td>
+    </tr>
+    <tr>
+      <td>8:00-8:30PM</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -125,7 +132,7 @@ author_profile: false
 <div class="content">
   <ul>
       <li><strong>Time:</strong> Please arrive 15 minutes early to complete any necessary paperwork.</li>
-      <li><strong>Location:</strong> The location of training may change due to the transient nature of the class at this time. Check the homepage and any social media pages for updates.</li>
+      <li><strong>Location:</strong> Check the homepage and any social media pages for updates.</li>
   </ul>
 </div>
 
