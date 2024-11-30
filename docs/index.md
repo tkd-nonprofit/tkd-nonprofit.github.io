@@ -41,7 +41,7 @@ intro:
     </div>
     <div class="skill">
       Respect
-      <div class="tooltip">Honor your instructors, peers, and yourself by embracing martial arts principles and traditions.</div>
+      <div class="tooltip">Honor your elders, instructors, peers, and yourself by embracing martial arts principles and traditions.</div>
     </div>
   </div>
 </div>
