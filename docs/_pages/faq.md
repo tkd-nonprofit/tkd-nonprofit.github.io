@@ -9,7 +9,7 @@ author_profile: false
 <details>
   <summary style="font-weight: bold; font-size: 1.1em; cursor: pointer; padding: 5px 0;">What is Elite Texas Taekwondo?</summary>
   
-  <p style="margin-top: 10px;">Elite Texas Taekwondo is a martial arts organization dedicated to training and developing athletes in Taekwondo, with a focus on Olympic-style sparring and competition.</p>
+  <p style="margin-top: 10px;">Elite Texas Taekwondo is a nonprofit martial arts organization dedicated to training and developing athletes in Taekwondo, with a focus on Olympic-style sparring and competition.</p>
 </details>
 
 <hr style="margin: 20px 0; border: none; border-top: 1px solid #ccc;">
