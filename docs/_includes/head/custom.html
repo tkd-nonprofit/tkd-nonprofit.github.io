@@ -8,3 +8,13 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="msapplication-TileImage" content="/assets/images/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const announcementBar = document.getElementById('announcement-bar');
+      const closeBannerBtn = document.getElementById('close-banner-btn');
+      
+      closeBannerBtn.addEventListener('click', () => {
+        announcementBar.style.display = 'none';
+      });
+    });
+</script>

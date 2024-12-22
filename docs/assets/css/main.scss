@@ -1,0 +1,72 @@
+---
+---
+// Import your custom partial (optional but cleaner)
+@import "minimal-mistakes";
+// @import "announcement";
+
+// .announcement-bar {
+//   background-color: #f4f4f4;
+//   color: #333;
+//   padding: 1rem;
+//   display: flex;
+//   justify-content: space-between;
+//   align-items: center;
+//   border-bottom: 2px solid #ccc;
+// }
+
+// .announcement-bar p {
+//   margin: 0;
+// }
+
+// .announcement-bar button {
+//   background: transparent;
+//   border: none;
+//   font-size: 1.2rem;
+//   cursor: pointer;
+// }
+
+.announcement-bar {
+    /* Bright, attention-grabbing background color */
+    background-color: #fff3cd; 
+    /* Darker text color for good contrast */
+    color: #856404;           
+    /* Increase padding for more space around the text */
+    padding: 1.25rem;         
+    /* Flex layout for easy alignment of text and close button */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* Add a solid border and subtle rounding to make it stand out */
+    border: 2px solid #ffeeba;
+    border-radius: 0.25rem;
+    /* Increase base font size and weight for better readability */
+    font-size: 1.25rem;       
+    font-weight: 600;
+    /* Spacing below the banner so it doesn’t crowd other elements */
+    margin-bottom: 1.5rem;    
+    /* Optional: Add a slight box shadow to pop off the page */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .announcement-bar p {
+    margin: 0;
+    /* Optional: slightly increased line-height for text readability */
+    line-height: 1.5;         
+  }
+  
+  .announcement-bar button {
+    /* Transparent background and no border to blend in with the banner */
+    background: transparent;  
+    border: none;
+    /* Larger icon/text size for the close button */
+    font-size: 1.5rem;        
+    cursor: pointer;
+    /* Use the same color as text for consistency */
+    color: #856404;           
+    /* Optional: Slight hover effect for better user feedback */
+    transition: color 0.3s ease;
+  
+    &:hover {
+      color: #5b3b05;
+    }
+}
