@@ -19,7 +19,7 @@ intro:
   - excerpt: 'Developing leaders in a culture of excellence.'
 ---
 
-{% include news-banner.html %}
+<!-- {% include news-banner.html %} -->
 {% include feature_row id="intro" type="center" %}
 
 <div class="skills-section">
