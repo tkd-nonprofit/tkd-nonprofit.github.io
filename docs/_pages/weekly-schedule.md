@@ -47,8 +47,6 @@ author_profile: false
     </tr>
     <tr>
       <td>7:30-8:00PM</td>
-      <td></td>
-      <td></td>
     </tr>
   </tbody>
 </table>
