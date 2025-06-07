@@ -22,35 +22,14 @@ intro:
 <!-- {% include news-banner.html %} -->
 {% include feature_row id="intro" type="center" %}
 
-<div class="skills-section">
-  <div class="skills">
-    <div class="skill">
-      Focus
-      <div class="tooltip">Learn to concentrate under pressure and stay mindful during challenges.</div>
-    </div>
-    <div class="skill">
-      Confidence
-      <div class="tooltip">Build self-belief through mastery of techniques and competition readiness.</div>
-    </div>
-    <div class="skill">
-      Teamwork
-      <div class="tooltip">Collaborate and support teammates to achieve collective goals, fostering a sense of belonging and mutual respect.</div>
-    </div>
-    <div class="skill">
-      Discipline
-      <div class="tooltip">Develop self-control and a strong work ethic both in and out of training.</div>
-    </div>
-    <div class="skill">
-      Respect
-      <div class="tooltip">Honor your elders, instructors, peers, and yourself by embracing martial arts principles and traditions.</div>
-    </div>
-  </div>
-</div>
-
 **Elite Texas Taekwondo** operates as a 501(c)(3) nonprofit organization with a mission to cultivate a supportive and
 empowering community where individuals of all ages and skill levels can thrive. Whether you're looking
 to improve your fitness, develop discipline and confidence, or compete on a national stage, we are here to guide
 you every step of the way.
+
+{% include skills-section.html %}
+
+
 
 <div class="location" style="text-align: center; margin: 2em 0;">
 <h2>Find Us Here.</h2>
