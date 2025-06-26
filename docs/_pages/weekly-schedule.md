@@ -120,7 +120,7 @@ author_profile: false
 
 ## Where to Start
 <div class="content">
-  <p>If you have no prior Taekwondo experience, we strongly recommend you attend a <span class="highlight">Form and Technique</span> Tuesday or Thursday class.</p>
+  <p>If you have no prior Taekwondo experience, we strongly recommend you attend a <span class="highlight">Form and Technique</span> Monday or Wednesday class.</p>
 </div>
 
 ## Arrival
