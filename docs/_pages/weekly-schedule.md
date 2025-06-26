@@ -5,7 +5,7 @@ permalink: /weekly-schedule/
 author_profile: false
 ---
 
-<!-- {% include news-banner.html %} -->
+{% include news-banner.html %}
 
 <p class="note"><br>We’re excited to have you join us and look forward to training with you!<br></p>
 
