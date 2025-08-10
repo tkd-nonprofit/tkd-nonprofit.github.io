@@ -33,7 +33,7 @@ author_profile: false
       <td rowspan="2">Form and Technique<br>6:00-7:00PM</td>
       <td></td>
       <td rowspan="4">REST</td>
-      <td rowspan="4">Competition<br><strong>9:30AM-12:00PM</strong></td>
+      <td rowspan="4">Competition<br><strong>9:00AM-12:00PM</strong></td>
     </tr>
     <tr>
       <td>6:30-7:00PM</td>
