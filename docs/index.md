@@ -19,7 +19,7 @@ intro:
   - excerpt: 'Developing leaders in a culture of excellence.'
 ---
 
-<!-- {% include news-banner.html %} -->
+{% include news-banner.html %}
 {% include feature_row id="intro" type="center" %}
 
 **Elite Texas Taekwondo** operates as a 501(c)(3) nonprofit organization with a mission to cultivate a supportive and
