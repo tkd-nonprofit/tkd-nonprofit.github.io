@@ -43,7 +43,7 @@ author_profile: false
     <tr>
       <td>7:00-7:30PM</td>
       <td rowspan="2">Conditioning<br>7:00-8:00PM</td>
-      <td rowspan="2">Conditioning<br>7:00-8:00PM</td>
+      <td rowspan="2">Int/Adv Class<br>7:00-8:00PM</td>
     </tr>
     <tr>
       <td>7:30-8:00PM</td>
