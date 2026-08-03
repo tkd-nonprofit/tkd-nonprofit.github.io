@@ -20,7 +20,7 @@ We strive to keep our pricing low to ensure that financial barriers do not preve
 
 * **Pricing Updates**  
   While we work hard to maintain our pricing, rates may change based on operational needs. Any adjustments will be communicated in advance to honor our commitment to transparency.
-  - *Last Update: 11/10/2024*
+  - *Last Update: 8/23/2026*
 
 ## Membership Tiers
 
@@ -29,8 +29,7 @@ We take pride in the quality and value of our program. Every registration comes 
 | Tier                       | Monthly Fee | Includes                                                                                        | 
 |----------------------------|-------------|-------------------------------------------------------------------------------------------------|
 | **Forms & Technique Class**| $20         | Access to only forms and technique classes                                                      |
-| **Form with Conditioning** | $30         | Access to the form and technique class along with both conditioning classes.                    |
-| **Full Training Package**  | $50         | Access to our entire range of classes throughout the week. (Form, Conditioning, Compeitition)   |
+| **Competition Training Package**  | $50         | Access to our entire range of classes throughout the week. (Form, Conditioning, Compeitition)   |
 
 > *All proceeds from memberships go directly back to supporting our athletes and expanding the resources available to help each individual reach their highest potential.*
 
@@ -39,14 +38,13 @@ We take pride in the quality and value of our program. Every registration comes 
 A one-time registration fee of **$50** is required upon sign-up. This fee covers:
 
 - A uniform and belt.
-- An AAU membership. Since we are a registered AAU Club, you will have access to AAU member benefits such as event participation and sports injury insurance. See [AAU Membership](https://aausports.org/Membership) and [AAU Insurance](https://aausports.org/Insurance) for further details and claim filing instructions. Your AAU membership will be renewed annually at no additional cost as long as you remain a member of Elite Texas Taekwondo.
 - Access to a supportive community of like-minded individuals dedicated to instilling core values, such as work ethic and perseverance, in the next generation.
 
 ##### <u>Multi-Membership Discounts</u>
 
-At Elite Texas Taekwondo, we believe in the transformative impact of parents participating alongside their children. That’s why any **parent membership**, when added to one or more child memberships, is eligible for a **50% discount**.
-
 We also value the strength and unity of family involvement. For families enrolling multiple children, we offer a **$5 discount per additional child** after the first.
+
+At Elite Texas Taekwondo, we believe in the transformative impact of parents participating alongside their children. That’s why any **parent membership**, when added to one or more child memberships, is eligible for a **50% discount**.
 
 ---
 

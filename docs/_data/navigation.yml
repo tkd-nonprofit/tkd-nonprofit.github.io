@@ -8,8 +8,6 @@ main:
     url: /weekly-schedule/
   - title: "Pricing"
     url: /pricing/
-  - title: "Join"
-    url: /join/
   - title: "Donate"
     url: /donate/
   - title: "Blog"

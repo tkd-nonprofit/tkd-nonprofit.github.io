@@ -17,7 +17,11 @@ author_profile: false
 <details>
   <summary style="font-weight: bold; font-size: 1.1em; cursor: pointer; padding: 5px 0;">How do I sign up?</summary>
   
-  <p style="margin-top: 10px;">You can sign up by visiting our website, clicking "Join" at the top navigation bar, and completing the registration form. Once registered, you'll receive an email with further instructions.</p>
+  <p style="margin-top: 10px;">We recommend showing up so we can walk you through the process and answer any questions. There is a one-time registration fee and a monthly membership.</p>
+  <ul style="margin-top: 10px;">
+    <li><a href="https://www.zeffy.com/en-US/ticketing/elite-texas-taekwondo" style="color: #CC5500; text-decoration: none; font-weight: bold;">One-time registration</a></li>
+    <li><a href="https://www.zeffy.com/en-US/ticketing/elite-texas-taekwondos-memberships" style="color: #CC5500; text-decoration: none; font-weight: bold;">Monthly memberships</a></li>
+  </ul>
 </details>
 
 <hr style="margin: 20px 0; border: none; border-top: 1px solid #ccc;">
