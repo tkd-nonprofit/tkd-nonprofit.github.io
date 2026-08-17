@@ -28,7 +28,7 @@ author_profile: false
     <tr>
       <td>6:00-6:30PM</td>
       <td rowspan="4">REST</td>
-      <td rowspan="2">Form and Technique<br>6:00-7:00PM</td>
+      <td rowspan="2">Conditioning<br>6:00-7:00PM</td>
       <td></td>
       <td rowspan="2">Form and Technique<br>6:00-7:00PM</td>
       <td></td>
@@ -42,7 +42,7 @@ author_profile: false
     </tr>
     <tr>
       <td>7:00-7:30PM</td>
-      <td rowspan="2">Conditioning<br>7:00-8:00PM</td>
+      <td rowspan="2">Open Sparring Class<br>7:00-8:00PM</td>
       <td rowspan="2">Int/Adv Class<br>7:00-8:00PM</td>
     </tr>
     <tr>
@@ -120,7 +120,7 @@ author_profile: false
 
 ## Where to Start
 <div class="content">
-  <p>If you have no prior Taekwondo experience, we strongly recommend you attend a <span class="highlight">Form and Technique</span> Monday or Wednesday class.</p>
+  <p>If you have no prior Taekwondo experience, we strongly recommend you attend any Monday class or a <span class="highlight">Form and Technique</span> class on Wednesday.</p>
 </div>
 
 ## Arrival
